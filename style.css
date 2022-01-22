@@ -1,0 +1,52 @@
+.header{
+    background-color:#101446;
+    color: #Fff;
+}
+.header img{
+    width: 80px;
+    
+}
+/* ***BANNER PART STRAT*** */
+  .banner{
+      background: url(https://i.ibb.co/yWJYgww/intro-bg.jpg) no-repeat center;
+      background-size: cover;
+      padding: 200px;
+  }
+
+ 
+/* banner PART END */
+/* ****BLOG PART START**** */
+.blog{
+    background-color: #bac1f3;
+}
+ .meet h1{
+    font-size: 50px;
+}
+.teem p{
+    max-width: 200px;
+    text-align: center;
+}
+
+/* ****BLOG PART END**** */
+/* ****ABOUTE PART STRAT**** */
+.aboute{
+ background-color: #c2d4ea;
+}
+/* ****ABOUTE PART  END **** */
+.contact{
+    background-color: #f5f5f5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
